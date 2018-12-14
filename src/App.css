@@ -1,0 +1,40 @@
+.app {
+  text-align: center;
+}
+
+.app-content {
+  min-height: 100vh;
+  display: grid;
+  grid-auto-rows: minmax(100px, auto);
+  font-size: calc(10px + 2vmin);
+  color: white;
+  z-index: 100 !important;
+}
+
+.image-display, video {
+  object-fit: contain;
+  margin: 0 !important;
+}
+
+.content-card {
+  padding: .5%;
+  border-radius: 10%;
+  background-color: #2c5794; 
+  display: inline-block;
+}
+
+.content-wrapper {
+  width: 100%;
+}
+
+.row-one {
+  grid-row: 1;
+}
+
+.row-two {
+  grid-row: 2;
+}
+
+.row-three {
+  grid-row: 3;
+}
