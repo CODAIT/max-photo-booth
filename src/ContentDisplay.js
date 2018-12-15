@@ -10,12 +10,13 @@ const ContentDisplay = props => {
       {
         peopleData ? 
         <KonvaDisplay
+          className='konva-wrapper'
           handleReset={ props.handleReset }     
           handleDownload={ props.handleDownload }
           BG={ selectedBG }
           front={ peopleData } />
       :
-        <div>
+        <div className="img-wrapper">
           <img 
             alt='a webcam capture'
             className='image-display'

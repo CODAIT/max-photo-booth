@@ -6,10 +6,11 @@ import StatusBar from './StatusBar'
 import { saveAs } from 'file-saver'
 import B64toBlob  from 'b64-to-blob'
 import { loadTFJSModel, cleanTFJSResponse, getScaledSize, OBJ_MAP, getShuffledBGs } from './utils'
+import ContentDisplay from './ContentDisplay'
+import BGSelector from './BGSelector'
+import AppHeader from './AppHeader'
+import Footer from './Footer'
 import './App.css'
-import ContentDisplay from './ContentDisplay';
-import BGSelector from './BGSelector';
-import AppHeader from './AppHeader';
 
 const initialState = {
   time: '3',
@@ -187,8 +188,10 @@ class App extends Component {
               this.setState({ 
                 selectedBG: this.state.BGList[selectedBGKey] 
               })
-            } }
-            />
+            } } />
+        </div>
+        <div className='row-four'>
+        <Footer />
         </div>
         
       </div>

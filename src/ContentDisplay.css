@@ -5,3 +5,8 @@
   margin-top: 1%;
   font-size: 1em;
 }
+
+.img-wrapper > img, .konva-wrapper {
+  max-height: 45vh;
+  width: auto;
+}

@@ -3,9 +3,9 @@
 }
 
 .app-content {
-  min-height: 100vh;
+  height: 100vh;
   display: grid;
-  grid-auto-rows: minmax(100px, auto);
+  grid-auto-rows: minmax(50px, auto);
   font-size: calc(10px + 2vmin);
   color: white;
   z-index: 100 !important;
@@ -37,4 +37,14 @@
 
 .row-three {
   grid-row: 3;
+  max-height: 200px;
+}
+
+.row-four {
+  grid-row: 4;
+}
+
+.webcam-display {
+  max-height: 45vh;
+  width: auto;
 }
