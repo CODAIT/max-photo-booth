@@ -1,13 +1,13 @@
 {
-  "main.css": "/max-photo-booth/static/css/main.063da490.chunk.css",
-  "main.js": "/max-photo-booth/static/js/main.b3100e30.chunk.js",
-  "main.js.map": "/max-photo-booth/static/js/main.b3100e30.chunk.js.map",
-  "static/js/1.b387cf3f.chunk.js": "/max-photo-booth/static/js/1.b387cf3f.chunk.js",
-  "static/js/1.b387cf3f.chunk.js.map": "/max-photo-booth/static/js/1.b387cf3f.chunk.js.map",
+  "main.css": "/max-photo-booth/static/css/main.4fbcaefc.chunk.css",
+  "main.js": "/max-photo-booth/static/js/main.b02e3a6e.chunk.js",
+  "main.js.map": "/max-photo-booth/static/js/main.b02e3a6e.chunk.js.map",
+  "static/js/1.3cc62e09.chunk.js": "/max-photo-booth/static/js/1.3cc62e09.chunk.js",
+  "static/js/1.3cc62e09.chunk.js.map": "/max-photo-booth/static/js/1.3cc62e09.chunk.js.map",
   "runtime~main.js": "/max-photo-booth/static/js/runtime~main.cfd7ded7.js",
   "runtime~main.js.map": "/max-photo-booth/static/js/runtime~main.cfd7ded7.js.map",
-  "static/css/main.063da490.chunk.css.map": "/max-photo-booth/static/css/main.063da490.chunk.css.map",
+  "static/css/main.4fbcaefc.chunk.css.map": "/max-photo-booth/static/css/main.4fbcaefc.chunk.css.map",
   "index.html": "/max-photo-booth/index.html",
-  "precache-manifest.e0d536c42c57be7e1ab6002a96a88914.js": "/max-photo-booth/precache-manifest.e0d536c42c57be7e1ab6002a96a88914.js",
+  "precache-manifest.0242fe6de26fac783fdd460f3fe0c28d.js": "/max-photo-booth/precache-manifest.0242fe6de26fac783fdd460f3fe0c28d.js",
   "service-worker.js": "/max-photo-booth/service-worker.js"
 }
