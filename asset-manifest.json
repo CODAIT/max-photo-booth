@@ -1,13 +1,13 @@
 {
   "main.css": "/max-photo-booth/static/css/main.f226a0cd.chunk.css",
-  "main.js": "/max-photo-booth/static/js/main.e81c8afd.chunk.js",
-  "main.js.map": "/max-photo-booth/static/js/main.e81c8afd.chunk.js.map",
+  "main.js": "/max-photo-booth/static/js/main.02198f41.chunk.js",
+  "main.js.map": "/max-photo-booth/static/js/main.02198f41.chunk.js.map",
   "static/js/1.3cc62e09.chunk.js": "/max-photo-booth/static/js/1.3cc62e09.chunk.js",
   "static/js/1.3cc62e09.chunk.js.map": "/max-photo-booth/static/js/1.3cc62e09.chunk.js.map",
   "runtime~main.js": "/max-photo-booth/static/js/runtime~main.cfd7ded7.js",
   "runtime~main.js.map": "/max-photo-booth/static/js/runtime~main.cfd7ded7.js.map",
   "static/css/main.f226a0cd.chunk.css.map": "/max-photo-booth/static/css/main.f226a0cd.chunk.css.map",
   "index.html": "/max-photo-booth/index.html",
-  "precache-manifest.5ff7ddb42c07a5d158f9572b7c3d78ec.js": "/max-photo-booth/precache-manifest.5ff7ddb42c07a5d158f9572b7c3d78ec.js",
+  "precache-manifest.9cf117367c7557d1ec0ab7bda6d2a35f.js": "/max-photo-booth/precache-manifest.9cf117367c7557d1ec0ab7bda6d2a35f.js",
   "service-worker.js": "/max-photo-booth/service-worker.js"
 }
