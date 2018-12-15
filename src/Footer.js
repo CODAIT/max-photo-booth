@@ -12,7 +12,7 @@ export default class Footer extends Component {
         <div className="footerLinks">
           <div className="maxLink right">
             Created with the 
-            <a href="https://developer.ibm.com/code/open/centers/codait/">
+            <a href="https://github.com/codait/max-photo-booth">
                 {` MAX Image Segmenter`}
             </a>
             { ` model from the Model Asset eXchange.` }
