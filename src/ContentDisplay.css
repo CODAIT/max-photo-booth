@@ -6,7 +6,11 @@
   font-size: 1em;
 }
 
-.img-wrapper > img, .konva-wrapper {
-  max-height: 45vh;
-  width: auto;
+.img-wrapper > img, .konvajs-content > canvas, .konvaMain  {
+  max-height: 45vh !important;
+  width: 62vh !important;
+}
+
+.konvajs-content {
+  width: 62vh !important;
 }
