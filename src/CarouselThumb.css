@@ -28,8 +28,8 @@
 
 .savedImageThumb {
   background-color: #0aa;
-  width: 18vw;
-  height: 18vw;
+  width: 19vw;
+  height: 19vw;
   max-height: 100%;
   margin: auto .5% auto .5%;
   border-radius: 8px;
@@ -134,3 +134,7 @@
 .cpbtn.delete {
   padding: 1% 2% 1% 2%;
 }
+
+@media (max-width: 600px) {
+  
+  }

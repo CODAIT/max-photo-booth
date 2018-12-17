@@ -18,6 +18,8 @@ const ContentDisplay = props => {
       :
         <div className="img-wrapper">
           <img 
+            height='480px'
+            width='640px'
             alt='a webcam capture'
             className='image-display'
             src={ peopleData ? peopleData : captureData } />

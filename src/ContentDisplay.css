@@ -2,15 +2,15 @@
   background-color: #86b5e1;
   border-radius: 18px;
   color: white;
-  margin-top: 1%;
+  margin-top: 2%;
   font-size: 1em;
+  border-radius: 18px;
+  box-shadow:
+    0 0 8px 2px #0ff;
 }
 
-.img-wrapper > img, .konvajs-content > canvas, .konvaMain  {
-  max-height: 45vh !important;
+.img-wrapper > img {
+  height: 45vh !important;
   width: 62vh !important;
-}
-
-.konvajs-content {
-  width: 62vh !important;
+  max-width: 99vw !important;
 }

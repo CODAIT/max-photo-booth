@@ -13,22 +13,9 @@ div.stickyHead.row {
   font-size: 1.75em;
   color: red;
   font-weight: bold;
-  
-  /*position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 999 !important;*/
-
 }
 
 .modelName {
   color: green;
   font-weight: bold;
-}
-
-.titleBanner > .particles, 
-.titleBanner > .particles > canvas {
-  z-index: -99 !important;
-  max-height: 8vh !important;
-  width: 100% !important;
 }

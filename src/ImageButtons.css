@@ -7,9 +7,11 @@
     0 0 8px 2px #0ff;
 }
 
-.reset-button:hover, .download-button:hover {
-  color: red;
-  background-color: lightgreen;
+.reset-button:hover, .download-button:hover,
+.reset-button:focus, .download-button:focus,
+.reset-button:active, .download-button:active {
+  color: red !important;
+  background-color: lightgreen !important;
 }
 
 .image-button-bar {
@@ -18,5 +20,5 @@
   justify-content: space-evenly;
   align-content: center;
   max-width: 680px;
-  margin: 1% auto 0 auto;
+  margin: 2% auto 0 auto;
 }

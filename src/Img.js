@@ -98,7 +98,7 @@ class Img extends Component {
 	}
 
 	render = () => {
-			const imageDims = {width: 640, height: 480 }
+			const imageDims = { width: 640, height: 480 }
 			const pos = { x: this.props.x || 0, y: this.props.y || 0 }
 		return (
 			<Image 

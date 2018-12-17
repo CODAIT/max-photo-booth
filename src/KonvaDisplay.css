@@ -3,10 +3,16 @@
   margin-bottom: 0 !important;
 }
 
-.konvaMain > .konvajs-content {
-  margin: auto !important;
+.konvajs-content {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
-.konvaMain > .konvajs-content > canvas {
+
+.konvaMain, .konvajs-content, canvas  {
+  max-height: 45vh !important;
+  width: 62vh !important;
   border-radius: 4px;
   background-color: #2f2d2e !important;
+  max-width: 99vw !important;
 }

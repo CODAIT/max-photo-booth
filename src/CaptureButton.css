@@ -7,7 +7,7 @@
     0 0 8px 2px #0ff;
 }
 
-.capture-button:hover {
-  color: red;
-  background-color: lightgreen;
+.capture-button:hover, .capture-button:active, .capture-button:focus {
+  color: red !important;
+  background-color: lightgreen !important;
 }
