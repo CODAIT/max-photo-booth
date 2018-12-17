@@ -60,7 +60,8 @@ export default class KonvaDisplay extends Component {
         src={ image }
         x={ imageState.xPos }
         y={ imageState.yPos }
-        draggable={ true }
+        isBG={ layer === 'BG' }
+        draggable={ layer ==='front' }
         onDragEnd={ dragHandler } />
       )
   }

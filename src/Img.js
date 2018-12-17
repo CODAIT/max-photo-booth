@@ -18,7 +18,8 @@ class Img extends Component {
 			image: null,
 			error: false,
 			loaded: false,
-			hover: false
+			hover: false,
+			isBG: props.isBG
 		}
 	}
 
@@ -102,14 +103,14 @@ class Img extends Component {
 			const pos = { x: this.props.x || 0, y: this.props.y || 0 }
 		return (
 			<Image 
-				stroke={ '#0aa' }
+				stroke={ '#0ff' }
 				strokeWidth={ 6 }
 				strokeEnabled={ this.state.hover }
         image={ this.state.image } 
         x={ pos.x } 
         y={ pos.y } 
-        width={ imageDims.width } 
-        height={ imageDims.height }
+				height={ this.props.isBG ? imageDims.height : null  }
+				width={ this.props.isBG ? imageDims.width : null }
         draggable={ this.props.draggable }
         onDragEnd={ this.props.onDragEnd }
 				onMouseOver={ () => this.setState({
