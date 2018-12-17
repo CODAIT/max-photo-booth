@@ -28,7 +28,6 @@ export default CarouselThumb
 
 const handleImageClick = (thumbProps, imageID) => {
   if (imageID !== thumbProps.selectedImage) {
-    console.log(imageID)
     thumbProps.setSelectedBG(imageID)
   } else {
     thumbProps.setSelectedBG('')
