@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/max-photo-booth/static/js/runtime~main.cfd7ded7.js"
   },
   {
-    "revision": "a69d171c4898f948ed19",
-    "url": "/max-photo-booth/static/js/main.a69d171c.chunk.js"
+    "revision": "557f3e8b530fbdac73da",
+    "url": "/max-photo-booth/static/js/main.557f3e8b.chunk.js"
   },
   {
     "revision": "3cc62e0996476aadf445",
     "url": "/max-photo-booth/static/js/1.3cc62e09.chunk.js"
   },
   {
-    "revision": "a69d171c4898f948ed19",
-    "url": "/max-photo-booth/static/css/main.ffeb93ac.chunk.css"
+    "revision": "557f3e8b530fbdac73da",
+    "url": "/max-photo-booth/static/css/main.b25c92f0.chunk.css"
   },
   {
-    "revision": "cebf1a23b5b46e89dab3f38a7e402f17",
+    "revision": "5f3c25006040fb2f223df2121ba88592",
     "url": "/max-photo-booth/index.html"
   }
 ];
